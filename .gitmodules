@@ -94,9 +94,6 @@
 [submodule "bundle/vim-colors-tomorrow"]
 	path = bundle/vim-colors-tomorrow
 	url = https://github.com/chriskempson/vim-tomorrow-theme.git
-[submodule "bundle/supertab"]
-	path = bundle/supertab
-	url = https://github.com/ervandew/supertab.git
 [submodule "bundle/mustache"]
 	path = bundle/mustache
 	url = https://github.com/juvenn/mustache.vim.git
