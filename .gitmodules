@@ -140,5 +140,8 @@
 	path = bundle/vim-easymotion
 	url = https://github.com/easymotion/vim-easymotion.git
 [submodule "/Users/keithmarter/.vim/bundle/vim-elixir"]
-	path = /Users/keithmarter/.vim/bundle/vim-elixir
+	path = bundle/vim-elixir
 	url = https://github.com/elixir-lang/vim-elixir.git
+[submodule "/Users/keithmarter/.vim/bundle/vim-flake8"]
+	path = bundle/vim-flake8
+	url = https://github.com/nvie/vim-flake8
